@@ -1,0 +1,5 @@
+location_id,location_name,city,region
+L001,North Warehouse,New York,East
+L002,South Distribution,Austin,South
+L003,West Hub,San Francisco,West
+L004,East Port,New Jersey,East

@@ -1,0 +1,4 @@
+supplier_id,supplier_name,contact_email,country
+S001,TechCorp,sales@techcorp.com,USA
+S002,GlobalLogistics,info@globallog.com,Canada
+S003,FurnitureWholesale,orders@furni.com,USA
